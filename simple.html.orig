@@ -2,10 +2,17 @@
 
 <!--
 Making a couple of changes within the git repository
+<<<<<<< HEAD
+
+iwe ndiwe junkie
+=======
+yes
+yesyes
+>>>>>>> c7aed8f (Adding text from another branch in simple.html after rebase)
 -->
 
 
-<title>Try Again</title>
+<title>Simple Title</title>
 <style>
 body{
 	padding-top: 50px;
@@ -15,6 +22,4 @@ body{
 
 <head>I am in the head of this</head>
 
-
-this is a copyright section
 </html>
